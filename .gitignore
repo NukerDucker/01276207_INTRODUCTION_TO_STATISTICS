@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (uncomment if you don't want to track large datasets)
+# *.csv
+# *.xlsx
+# *.xls
+# *.json
+# *.parquet
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Virtual environments
+.env
+.env.local
+
+# Statistics/Data Science specific
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.feather
+
+# Logs and outputs
+*.log
+*.out
+
+# Temporary files
+tmp/
+temp/
+*.tmp
